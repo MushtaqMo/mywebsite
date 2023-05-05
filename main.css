@@ -1,0 +1,101 @@
+body{
+    background-color: beige;
+    
+}
+.List{
+    background-color:rgb(237, 133, 5);
+}
+
+.coolText {
+    color:rgb(71, 175, 104);
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+
+}
+#mainHeader {
+    background-color: rgb(83, 104, 66);
+    height: 118px;
+    width: 1024;
+    font-size: 80px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    color:rgb(50, 61, 31)
+    
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+    width:1000px;
+}
+
+.img-perfume0{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: center;
+    width:500px;
+}
+    
+.img-perfume2{
+    display: flex;
+    justify-content: center;
+    width:100px;
+}   
+
+.img-perfume4{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: center;
+    width:400px;
+    
+}   
+
+.img-perfume3{
+    display: flex;
+    justify-content: center;
+    width:00px;
+}   
+
+
+#mainHeader2 {
+    background-color: rgb(83, 104, 66);
+    height: 118px;
+    width: 1024;
+    font-size: 80px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    color:rgb(40, 52, 29)
+    
+}
+
+.coolText2 {
+    color:rgb(53, 171, 92);
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.coolText3 {
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.img-perfume5{
+    display: flex;
+    justify-content: center;
+    width:600px;
+}   
